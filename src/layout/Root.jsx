@@ -16,3 +16,11 @@ const Root = () => {
 };
 
 export default Root;
+
+
+
+
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/sabbir1257/responsive-nav-and-footer.git
+git push -u origin main
